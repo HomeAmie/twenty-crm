@@ -40,6 +40,7 @@ export const cacheStorageModuleFactory = (
           port,
           username,
           password,
+          family: 0,
         },
       };
     }

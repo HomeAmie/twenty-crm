@@ -45,6 +45,7 @@ export const messageQueueModuleFactory = async (
             port,
             username,
             password,
+            family: 0,
           },
         },
       };
